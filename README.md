@@ -11,10 +11,10 @@
   <!-- Linguagens -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Mendonca&layout=compact&theme=merko"/>
 
-  <!-- Metrics (Dashboard completo) -->
+  <!-- Metrics (Dashboard completo) 
   <img height="180em" src="https://github.com/Mateus-Mendonca/Mateus-Mendonca/blob/main/github-metrics.svg"/>
 
-</div>
+</div> -->
 
 
 
